@@ -28,12 +28,4 @@ Skills: HTML / CSS /  REACT / JS / VUE JS / API / Bootstrap /  Web Applications 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)  
