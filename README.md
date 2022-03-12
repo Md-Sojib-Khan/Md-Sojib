@@ -1,6 +1,6 @@
 ![Full-stack Developer](https://avatars.githubusercontent.com/u/99987016?v=4)
 # Md-Sojib-Khan
-### Hi there 👋, Hi MySelf Md-Sojib
+#👋, Hi MySelf Md-Sojib
 #### Full-stack Developer
 
 Hello! I'm a Full-stack Developer with an emphasis on clean responsive design. Perfect for implementing a well-thought-out Wireframe with HTML5, CSS (or SASS), JavaScript, WordPress, php,Web Services,
@@ -23,6 +23,8 @@ Skills: HTML / CSS /  REACT / JS / VUE JS / API / Bootstrap /  Web Applications 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)](https://github.com/ryo-ma/github-profile-trophy)
 
