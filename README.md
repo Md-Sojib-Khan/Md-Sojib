@@ -1,7 +1,7 @@
+![Full-stack Developer](https://avatars.githubusercontent.com/u/99987016?v=4)
 # Md-Sojib-Khan
 ### Hi there 👋, Hi MySelf Md-Sojib
 #### Full-stack Developer
-![Full-stack Developer](https://avatars.githubusercontent.com/u/99987016?v=4)
 
 Hello! I'm a Full-stack Developer with an emphasis on clean responsive design. Perfect for implementing a well-thought-out Wireframe with HTML5, CSS (or SASS), JavaScript, WordPress, php,Web Services,
 Laravel,Web Applications, . I have built quite dashboards/admin panels and other kinds of single-page applications such as React.js Vue.js
