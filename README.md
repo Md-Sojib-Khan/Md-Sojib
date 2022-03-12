@@ -22,9 +22,7 @@ Skills: HTML / CSS /  REACT / JS / VUE JS / API / Bootstrap /  Web Applications 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Sojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)](https://github.com/ryo-ma/github-profile-trophy)
 
