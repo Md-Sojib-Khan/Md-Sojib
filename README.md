@@ -18,6 +18,8 @@ Skills: HTML / CSS /  REACT / JS / VUE JS / API / Bootstrap /  Web Applications 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,4 +33,3 @@ Skills: HTML / CSS /  REACT / JS / VUE JS / API / Bootstrap /  Web Applications 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/Md-Sojib-Khan?tab=overview&from=2022-02-01&to=2022-02-28)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
